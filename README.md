@@ -52,7 +52,7 @@ A verificação de vitória foi implementada com base em uma lista de combinaç�
 
 ---
 
-🔗 Acesse o Projeto Online
+## 🔗 Acesse o Projeto Online
 Você pode testar a aplicação diretamente no seu navegador clicando no link abaixo:
 
 👉 [Jogue agora o Jogo da Velha](https://tic-tac-toe-iep5.onrender.com/)
