@@ -51,3 +51,10 @@ Este projeto foi desenvolvido com o objetivo de praticar os conceitos fundamenta
 A verificação de vitória foi implementada com base em uma lista de combinações possíveis. Apesar de ser uma abordagem simples, é eficiente para este caso. Caso tenha sugestões de melhorias, estou aberto a ideias!
 
 ---
+
+🔗 Acesse o Projeto Online
+Você pode testar a aplicação diretamente no seu navegador clicando no link abaixo:
+
+👉 [Jogue agora o Jogo da Velha](https://tic-tac-toe-iep5.onrender.com/)
+
+---
